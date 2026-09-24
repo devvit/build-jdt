@@ -1,4 +1,4 @@
-name: Daily Build JDTLS
+name: Weekly Build JDTLS
 
 on:
   push:
